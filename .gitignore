@@ -1,8 +1,8 @@
 # Shadow models
-models/shadow/
+# models/shadow/
 
 # Data files
-data/
+# data/
 
 # Virtual environment
 .venv/

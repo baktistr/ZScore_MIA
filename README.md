@@ -1,6 +1,7 @@
 # Membership Inference Attack on GPT-2
 
 Membership inference attacks to determine if text samples were in a language model's training data.
+This project is part of CMU course : FOUNDATIONS OF PRIVACY 17-731 in Fall 2025
 
 ---
 
